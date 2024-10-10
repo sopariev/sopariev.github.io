@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sopariev.github.io/sitemap.html.gz
+Sitemap: https://sopariev.github.io/app/sitemap.html.gz
+Sitemap: https://sopariev.github.io/assets/sitemap.html.gz
+Sitemap: https://sopariev.github.io/css/sitemap.html.gz
+Sitemap: https://sopariev.github.io/includes/sitemap.html.gz
+Sitemap: https://sopariev.github.io/item/sitemap.html.gz
+Sitemap: https://sopariev.github.io/src/sitemap.html.gz
